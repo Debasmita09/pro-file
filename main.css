@@ -118,3 +118,12 @@
     font-size: 18px;
     color: black;
 }
+
+.together{
+    display: flex;
+
+}
+
+.form table{
+    border: 1px solid black;
+}
