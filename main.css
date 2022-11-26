@@ -68,6 +68,7 @@
     border: 2px solid black;
     border-radius: 5px;
     padding: 5px;
+    padding-left: 3rem;
 }
 
 .form-section form input[type = 'email']{
@@ -86,11 +87,9 @@
 
 .form-section form input[type = 'tel']{
     font-size: 16px;
-    letter-spacing: 1px;}
-
-.form-section .checking form input[type = 'checkbox']{
-    justify content: left;
+    letter-spacing: 1px;
 }
+
 .form-section form button[type = 'submit']{
     font-size: 16px;
     letter-spacing: 1px;
@@ -102,4 +101,20 @@
 .form-section a{
     color: #25b5ee;
     letter-spacing: 1px;
+}
+
+.icon{
+    position: absolute;
+    top: calc(33%);
+    left: 7.25rem;
+    font-size: 18px;
+    color: black;
+}
+
+.icon1{
+    position: absolute;
+    top: calc(49%);
+    left: 7.25rem;
+    font-size: 18px;
+    color: black;
 }
